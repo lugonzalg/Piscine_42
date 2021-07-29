@@ -1,0 +1,5 @@
+Credentials cache: API:058A717A-C714-4709-A1C4-D7BB7AB6E002
+        Principal: lugonzal@42URDULIZ.COM
+
+  Issued                Expires               Principal
+Apr 12 20:40:21 2021  Apr 13 06:40:16 2021  krbtgt/42URDULIZ.COM@42URDULIZ.COM
